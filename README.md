@@ -82,7 +82,7 @@ We welcome contributions from health professionals, developers, designers, trans
 
 ## 📄 License
 
-This project is open-source under the **MIT License**.
+This project is open-source under the **Apache-2.0 license**.
 
 ---
 
