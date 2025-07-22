@@ -1,0 +1,96 @@
+## 🧠 Skills Required
+
+### 🔧 Software Development
+- **Frontend**
+  - HTML, CSS, JavaScript
+  - React / React Native / Flutter
+- **Backend**
+  - Node.js / Django / Laravel
+  - RESTful or GraphQL API development
+- **Database**
+  - PostgreSQL / MySQL / MongoDB
+- **DevOps**
+  - Docker, Kubernetes
+  - CI/CD (GitHub Actions, Jenkins)
+  - Cloud hosting (AWS / GCP / Azure)
+
+### 🎨 UI/UX Design
+- Figma / Adobe XD
+- Accessibility & responsiveness
+- User journey mapping and prototyping
+
+### 🔐 Cybersecurity
+- SSL/TLS encryption
+- Secure login (JWT, OAuth2, 2FA)
+- Knowledge of Zimbabwean Data Protection Act
+
+### 🏥 Health Informatics
+- Understanding of EMR/EHR systems
+- Familiarity with healthcare data and privacy
+
+### 📱 Mobile Development (Optional)
+- Java/Kotlin for Android
+- Swift for iOS
+- React Native for cross-platform apps
+
+### 🎥 Video & Real-Time Communication
+- WebRTC
+- Third-party SDKs like **Agora**, **Twilio**, **Jitsi**
+
+### 📋 Project Management
+- Agile/Scrum methodology
+- Tools: Trello, Jira, GitHub Projects
+
+### ⚖️ Legal & Compliance
+- MDPCZ policies
+- Telehealth laws in Zimbabwe
+- Consent and data retention
+
+### 📢 Marketing & Community Engagement
+- Digital campaigns
+- User onboarding strategies
+- Health education content
+
+---
+
+## 🛠️ Resources Required
+
+### 👥 Human Resources
+- Frontend Developers
+- Backend Developers
+- UI/UX Designer
+- DevOps Engineer
+- Healthcare Consultant (Doctor/Nurse)
+- Legal & Compliance Advisor
+- Project Manager
+- QA Testers
+- Customer Support Team
+
+### 💻 Technical Tools
+- **Version Control**: Git, GitHub
+- **APIs**: Twilio, Agora, Firebase, Jitsi
+- **Database**: MongoDB, PostgreSQL
+- **Monitoring**: Firebase Crashlytics, New Relic
+- **Testing Tools**: Postman, Cypress, Selenium
+
+### 🎨 Design Tools
+- Figma, Adobe XD
+- Canva (health content)
+- Photoshop (branding assets)
+
+### 🔒 Security Tools
+- SSL Certificates
+- Auth0 or Firebase Authentication
+- OWASP ZAP (vulnerability scanning)
+
+### 📲 Hardware (for clinics/field support)
+- Smartphones or tablets
+- HD webcams and microphones
+- Power backup (solar or UPS)
+- Internet routers or modems
+
+### 📚 Documentation
+- API Docs (Swagger, Postman)
+- User Manuals (Patients & Doctors)
+- Terms of Use / Privacy Policy
+- Consent & Rights Forms
