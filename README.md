@@ -4,7 +4,7 @@
 
 ---
 
-## 🩺 Project Definition
+## Project Definition
 
   **Shanduko Health**is a web and mobile application designed to:
 - Facilitate real-time video/audio consultations between doctors and patients.
@@ -16,7 +16,7 @@
 
 ---
 
-## 🌍 Impact
+## Impact
 
 **Healthcare Access**  
 - Expand access to qualified medical care in remote and underserved communities.
@@ -36,7 +36,7 @@
 
 ---
 
-## 📜 Rules & Regulations
+## Rules & Regulations
 
 To ensure project success and sustainability, the following standards and operational guidelines will be upheld:
 
@@ -68,9 +68,9 @@ To ensure project success and sustainability, the following standards and operat
 
 ---
 
-## 🧠 Skills Required
+## Skills Required
 
-### 🔧 Software Development
+### Software Development
 - **Frontend**
   - HTML, CSS, JavaScript
   - React / React Native / Flutter
@@ -84,48 +84,48 @@ To ensure project success and sustainability, the following standards and operat
   - CI/CD (GitHub Actions, Jenkins)
   - Cloud hosting (AWS / GCP / Azure)
 
-### 🎨 UI/UX Design
+### UI/UX Design
 - Figma / Adobe XD
 - Accessibility & responsiveness
 - User journey mapping and prototyping
 
-### 🔐 Cybersecurity
+### Cybersecurity
 - SSL/TLS encryption
 - Secure login (JWT, OAuth2, 2FA)
 - Knowledge of Zimbabwean Data Protection Act
 
-### 🏥 Health Informatics
+### Health Informatics
 - Understanding of EMR/EHR systems
 - Familiarity with healthcare data and privacy
 
-### 📱 Mobile Development (Optional)
+### Mobile Development (Optional)
 - Java/Kotlin for Android
 - Swift for iOS
 - React Native for cross-platform apps
 
-### 🎥 Video & Real-Time Communication
+### Video & Real-Time Communication
 - WebRTC
 - Third-party SDKs like **Agora**, **Twilio**, **Jitsi**
 
-### 📋 Project Management
+### Project Management
 - Agile/Scrum methodology
 - Tools: Trello, Jira, GitHub Projects
 
-### ⚖️ Legal & Compliance
+### ⚖Legal & Compliance
 - MDPCZ policies
 - Telehealth laws in Zimbabwe
 - Consent and data retention
 
-### 📢 Marketing & Community Engagement
+### Marketing & Community Engagement
 - Digital campaigns
 - User onboarding strategies
 - Health education content
 
 ---
 
-## 🛠️ Resources Required
+## Resources Required
 
-### 👥 Human Resources
+### Human Resources
 - Frontend Developers
 - Backend Developers
 - UI/UX Designer
@@ -136,49 +136,49 @@ To ensure project success and sustainability, the following standards and operat
 - QA Testers
 - Customer Support Team
 
-### 💻 Technical Tools
+### Technical Tools
 - **Version Control**: Git, GitHub
 - **APIs**: Twilio, Agora, Firebase, Jitsi
 - **Database**: MongoDB, PostgreSQL
 - **Monitoring**: Firebase Crashlytics, New Relic
 - **Testing Tools**: Postman, Cypress, Selenium
 
-### 🎨 Design Tools
+### Design Tools
 - Figma, Adobe XD
 - Canva (health content)
 - Photoshop (branding assets)
 
-### 🔒 Security Tools
+### Security Tools
 - SSL Certificates
 - Auth0 or Firebase Authentication
 - OWASP ZAP (vulnerability scanning)
 
-### 📲 Hardware (for clinics/field support)
+### Hardware (for clinics/field support)
 - Smartphones or tablets
 - HD webcams and microphones
 - Power backup (solar or UPS)
 - Internet routers or modems
 
-### 📚 Documentation
+### Documentation
 - API Docs (Swagger, Postman)
 - User Manuals (Patients & Doctors)
 - Terms of Use / Privacy Policy
 - Consent & Rights Forms
 
 
-## 🚀 Getting Started
+## Getting Started
 
 This section will guide developers on how to clone, set up, and contribute to the project. *(To be filled as development begins)*
 
 ---
 
-## 🤝 Contribution
+## Contribution
 
 We welcome contributions from health professionals, developers, designers, translators, and civic tech enthusiasts. Open issues, suggest improvements, or fork the repo and submit a PR.
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source under the **Apache-2.0 license**.
 
